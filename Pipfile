@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+nltk = "*"
+spacy = "*"
+pandas = "*"
+pyresparser = "*"
+pdfminer3 = "*"
+streamlit-tags = "*"
+pafy = "*"
+"plotly.express" = "*"
+youtube-dl = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
